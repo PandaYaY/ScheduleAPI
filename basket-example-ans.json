@@ -1,0 +1,130 @@
+{
+    "teams": {
+        "home": "Салават Юлаев",
+        "away": "Адмирал"
+    },
+    "startTime": "",
+    "mainReferee": [
+        "Виктор Спирин"
+    ],
+    "mainTrainers": [
+        "Виктор Николаевич Козлов",
+        "Леонид Григорьевич Тамбиев"
+    ],
+    "matchStatus": "Окончен",
+    "statistics": [],
+    "events": [
+        {
+            "player": "Даниил Гутик",
+            "team": 2,
+            "type": "penalty",
+            "value": "2",
+            "time": 145
+        },
+        {
+            "player": "Михал Криштоф",
+            "team": 2,
+            "type": "penalty",
+            "value": "2",
+            "time": 806
+        },
+        {
+            "player": "Александр Хмелевски",
+            "team": 1,
+            "type": "penalty",
+            "value": "2",
+            "time": 1633
+        },
+        {
+            "player": "Либор Шулак",
+            "team": 2,
+            "type": "penalty",
+            "value": "2",
+            "time": 2224
+        },
+        {
+            "player": "Александр Кадейкин",
+            "team": 1,
+            "type": "penalty",
+            "value": "2",
+            "time": 2425
+        },
+        {
+            "player": "Данил Башкиров",
+            "team": 1,
+            "type": "penalty",
+            "value": "2",
+            "time": 3172
+        },
+        {
+            "player": "Колби Уильямс",
+            "team": 2,
+            "type": "penalty",
+            "value": "2",
+            "time": 3502
+        },
+        {
+            "player": "Данил Файзуллин",
+            "team": 2,
+            "type": "goals",
+            "value": 1,
+            "time": 1505
+        },
+        {
+            "player": "Евгений Грачёв",
+            "team": 2,
+            "type": "assist",
+            "value": 1,
+            "time": 1505
+        },
+        {
+            "player": "Леонид Метальников",
+            "team": 2,
+            "type": "assist",
+            "value": 1,
+            "time": 1505
+        },
+        {
+            "player": "Александр Хмелевски",
+            "team": 1,
+            "type": "goalsAtMore",
+            "value": 1,
+            "time": 2270
+        },
+        {
+            "player": "Александр Кадейкин",
+            "team": 1,
+            "type": "assist",
+            "value": 1,
+            "time": 2270
+        },
+        {
+            "player": "Михаил Науменков",
+            "team": 1,
+            "type": "assist",
+            "value": 1,
+            "time": 2270
+        },
+        {
+            "player": "Прохор Корбит",
+            "team": 2,
+            "type": "goalsAtOT",
+            "value": 1,
+            "time": 4611
+        },
+        {
+            "player": "Павел Шэн",
+            "team": 2,
+            "type": "assist",
+            "value": 1,
+            "time": 4611
+        },
+        {
+            "player": "Дмитрий Сидляров",
+            "team": 2,
+            "type": "assist",
+            "value": 1,
+            "time": 4611
+        }
+    ]
+}
